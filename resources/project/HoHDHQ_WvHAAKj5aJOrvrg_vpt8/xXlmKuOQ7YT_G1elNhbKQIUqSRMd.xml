@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="Library enabling usage of Novation Control XL MIDI console along with Simulink. The library block allows a user to interactively inject stimuli during a simulation, based on action on the MIDI console."/>
